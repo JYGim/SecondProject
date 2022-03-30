@@ -8,5 +8,3 @@ public class Hello {
 		System.out.println("That's DVCS!");
 	}
 }
-
-
