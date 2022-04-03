@@ -1,3 +1,4 @@
+//Git 연습(03/31강의)
 //For command line git tutorial
 //Github modification 
 public class Hello {
